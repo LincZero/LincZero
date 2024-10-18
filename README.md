@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello Github Fans 👋
 
-<!--
-**LincZero/LincZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/), this site has a lot of technical notes that I wrote.
 
-Here are some ideas to get you started:
+- 📫 I'm a full stack developer. For more details about the development, see the Profile section of my personal website.
+- 💬 762699299@qq.com
+- 🌱 Currently working in Guangdong China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+主创开源项目 | Open source project (Chief creator)
+
+- any-block
+  - any-block-obsidian
+  - markdwon-it-any-block
+  - VuepressDemo (about how to use markdwon-it-any-block in vuepress)
+  - VitepressDemo (about how to use markdwon-it-any-block in vitepress)
+- FontEnd
+  - LincZero.github.io、and MdNote_Public
+  - LcNavSite
+- Other
+  - pyqt-node-editor-master
+  - SuperManager
+  - BiliTools
