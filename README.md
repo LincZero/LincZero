@@ -8,8 +8,8 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 - 📫 I'm a full stack developer. For more details about the development, see the Profile section of my personal website.
 - 🌱 Currently working in Guangdong China
 
-|<img src="https://github-readme-stats.vercel.app/api?username=LincZero&show_icons=true&hide_border=true" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincZero)](https://github.com/anuraghazra/github-readme-stats)|<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />|
-|---|---|---|
+|<img src="https://github-readme-stats.vercel.app/api?username=LincZero&show_icons=true&hide_border=true" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincZero)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
 
 ## 主创开源项目 | Open source project (Chief creator)
 
