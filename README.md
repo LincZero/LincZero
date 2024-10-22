@@ -28,7 +28,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Thank you very much for your support!
 
-|<img src="https://github.com/LincZero/LincZero/blob/main/assets/zfb_pay.png" />|<img src="https://github.com/LincZero/LincZero/blob/main/assets/wechat_pay.png" />|<img src="https://github.com/LincZero/LincZero/blob/main/assets/zfb_bmc.png" />|
+|<img src="https://github.com/LincZero/LincZero/blob/main/assets/pay_zfb.png" />|<img src="https://github.com/LincZero/LincZero/blob/main/assets/pay_wechat.png" />|<img src="https://github.com/LincZero/LincZero/blob/main/assets/pay_bmc.png" />|
 |---|---|---|
 
 <div align="center"><a href="https://www.buymeacoffee.com/762699299O"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
