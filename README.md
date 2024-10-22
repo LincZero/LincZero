@@ -28,7 +28,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Thank you very much for your support!
 
-(Support using Alipay/Wechat/BuyMeACoffe support)
+(Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~)
 
 <!-- <table>
   <tbody>
