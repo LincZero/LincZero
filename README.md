@@ -25,3 +25,12 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   - pyqt-node-editor-master
   - SuperManager
   - BiliTools
+
+## Thank you very much for your support!
+
+<div align="center"><img width="300" src="" />
+</div>
+
+<div align="center"><a href="https://www.buymeacoffee.com/762699299O"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</div>
+
