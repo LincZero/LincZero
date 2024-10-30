@@ -11,7 +11,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 |<img src="https://github-readme-stats.vercel.app/api?username=LincZero&show_icons=true&hide_border=true" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincZero)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
-## 主创开源项目 | Open source project (Chief creator)
+## Open source project (Chief creator) | 主创开源项目
 
 - Mix
   - AnyBlock
