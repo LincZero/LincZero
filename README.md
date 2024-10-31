@@ -8,10 +8,11 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 - 📫 I'm a full stack developer. For more details about the development, see the Profile section of my personal website.
 - 🌱 Currently working in Guangdong China
 
+<td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" /></td>
+
 <table>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" /></td>
       <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
       <td>
         <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact" />
