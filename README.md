@@ -83,7 +83,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     <tr>
     <td>
       <a alt="buymeacoffee" href="https://www.buymeacoffee.com/762699299O_doNotPay">
-        <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
+        <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=No Support Buymeacoffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
         <!-- <a href="https://www.buymeacoffee.com/762699299O"></a> -->
       </a>
     </td>
