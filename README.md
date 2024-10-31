@@ -17,8 +17,6 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 |<img src="https://github-readme-stats.vercel.app/api?username=LincZero&show_icons=true&hide_border=true" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincZero)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincZero&hide=c%2B%2B&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|---|
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LincZero&orgs=any-block)
-
 ## Open source project (Chief creator) | 主创开源项目
 
 - Mix
