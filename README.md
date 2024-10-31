@@ -82,14 +82,14 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     </tr>
     <tr>
     <td>
-      <a alt="buymeacoffee" href="https://www.buymeacoffee.com/762699299O_doNotPay">
-        <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=No Support Buymeacoffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
-        <!-- <a href="https://www.buymeacoffee.com/762699299O"></a> -->
+      <a alt="Paypal" href="https://www.paypal.me/LincZero">
+        <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />
       </a>
     </td>
     <td>
-      <a alt="Paypal" href="https://www.paypal.me/LincZero">
-        <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />
+      <a alt="buymeacoffee" href="https://www.buymeacoffee.com/762699299O_doNotPay">
+        <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=No Support Buymeacoffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
+        <!-- <a href="https://www.buymeacoffee.com/762699299O"></a> -->
       </a>
     </td>
     </tr>
