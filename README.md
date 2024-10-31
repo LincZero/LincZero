@@ -13,7 +13,11 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     <tr>
       <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" /></td>
       <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
-      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact" /></td>
+      <td>
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact" />
+        <br>
+        <span>(Without C++ version)</span>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -67,13 +71,29 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 <div align="center">
 
-  <img width="100%" alt="pay by zfb/wechat/buy me a coffe" src="https://github.com/LincZero/LincZero/blob/main/assets/pay_all2.png" />
+<img width="100%" alt="pay by zfb/wechat/buy me a coffe" src="https://github.com/LincZero/LincZero/blob/main/assets/pay_all2.png" />
+<!-- https://ghproxy.com/https://raw.githubusercontent.com/LincZero/LincZero/main/assets/zfb_wechat_pay.png -->
 
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
-  <!-- <a href="https://www.buymeacoffee.com/762699299O"></a> -->
-
-  Paypal: https://www.paypal.me/LincZero
+<table width="100%">
+  <tbody>
+    <tr>
+      <td>______________________________________________</td>
+      <td>______________________________________________</td>
+    </tr>
+    <tr>
+    <td>
+      <a alt="buymeacoffee" href="https://www.buymeacoffee.com/762699299O_doNotPay">
+        <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=762699299O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
+        <!-- <a href="https://www.buymeacoffee.com/762699299O"></a> -->
+      </a>
+    </td>
+    <td>
+      <a alt="Paypal" href="https://www.paypal.me/LincZero">
+        <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />
+      </a>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
-
-<!-- https://ghproxy.com/https://raw.githubusercontent.com/LincZero/LincZero/main/assets/zfb_wechat_pay.png -->
