@@ -8,16 +8,24 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 - 📫 I'm a full stack developer. For more details about the development, see the Profile section of my personal website.
 - 🌱 Currently working in Guangdong China
 
-|<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" />|[![Top Langs](https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|---|
-
-<!-- https://github-readme-stats.vercel.app/api? &theme=onedark&locale=en -->
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
+      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
-<summary>Organizational statistical problem</summary>
-Warning: Individuals work mostly in organizations, such as [any-block](https://github.com/any-block). And github-readme-stats cards [do not support statistics from organizations](https://github.com/anuraghazra/github-readme-stats/issues/1), so I used [another branch with the warehouse](https://github.com/anuraghazra/github-readme-stats/pull/2459)
+  <summary>Organizational statistical problem</summary>
 
-注意：个人大部分工作迁移到组织中便于管理，如 [any-block](https://github.com/any-block)。而github-readme-stats卡片[并不支持从组织中进行统计](https://github.com/anuraghazra/github-readme-stats/issues/1)，所以我使用了[另一分支与仓库](https://github.com/anuraghazra/github-readme-stats/pull/2459)
+  <!-- https://github-readme-stats.vercel.app/api? &theme=onedark&locale=en -->
+  
+  Warning: Individuals work mostly in organizations, such as [any-block](https://github.com/any-block) . And github-readme-stats cards [do not support statistics from organizations](https://github.com/anuraghazra/github-readme-stats/issues/1) , so I used [another branch with the warehouse](https://github.com/anuraghazra/github-readme-stats/pull/2459)
+  
+  注意：个人大部分工作迁移到组织中便于管理，如 [any-block](https://github.com/any-block)。而github-readme-stats卡片[并不支持从组织中进行统计](https://github.com/anuraghazra/github-readme-stats/issues/1)，所以我使用了[另一分支与仓库](https://github.com/anuraghazra/github-readme-stats/pull/2459)
 </details>
 
 ## Open source project (Chief creator) | 主创开源项目
