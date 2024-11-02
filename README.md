@@ -35,6 +35,8 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Open source project (Chief creator) | 主创开源项目
 
+（注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
+
 - Mix
   - AnyBlock
     - any-block-obsidian
@@ -42,8 +44,10 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     - VuepressDemo (about how to use markdwon-it-any-block in vuepress)
     - VitepressDemo (about how to use markdwon-it-any-block in vitepress)
   - NodeFlow
+- LincDocs
+  - many... (include my main documentation project `MdNote_Public`)
 - FontEnd
-  - LincZero.github.io、and MdNote_Public
+  - LincZero.github.io
   - LcNavSite
 - Application
   - pyqt-node-editor-master
