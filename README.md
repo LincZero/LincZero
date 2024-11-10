@@ -56,7 +56,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Thank you very much for your support!
 
-(Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~)
+(Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~. It is best to fill in the reason note when sponsoring)
 
 <!-- <table>
   <tbody>
