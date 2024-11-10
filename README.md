@@ -87,7 +87,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     </tr>
     <tr>
     <td>
-      <a alt="Paypal" href="https://www.paypal.me/LincZero">
+      <a alt="Paypal" href="https://www.paypal.me/Linc9972">
         <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />
       </a>
     </td>
