@@ -37,22 +37,39 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 （注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
 
-- Mix
-  - AnyBlock
-    - any-block-obsidian
-    - markdwon-it-any-block
-    - VuepressDemo (about how to use markdwon-it-any-block in vuepress)
-    - VitepressDemo (about how to use markdwon-it-any-block in vitepress)
-  - NodeFlow
-- LincDocs
+- AnyBlock (organization)
+  - any-block-obsidian
+  - markdwon-it-any-block
+  - VuepressDemo (about how to use markdwon-it-any-block in vuepress)
+  - VitepressDemo (about how to use markdwon-it-any-block in vitepress)
+- LincDocs (organization)
+  - Workflows 
   - many... (include my main documentation project `MdNote_Public`)
 - FontEnd
   - LincZero.github.io
+  - NodeFlow
+  - AnyBlock
   - LcNavSite
 - Application
   - pyqt-node-editor-master
   - SuperManager
   - BiliTools
+- LincZero.github.io (integration)
+  - Theme extension
+    - VuePress-Theme-Hope
+  - MarkdownIt extension
+    - AnyBlock (自研, V3 2024)，用于部分md写法与渲染扩展
+    - markdown-it-obsidian-callout (贡献)，用于obsidian callout语法的渲染，用于代替gfm-alert
+    - @nolebase/markdown-it-bi-directional-links (贡献)，用于双链的wiki链接语法的支持
+  - VuePress extension
+    - newPageHook (自研)，对Markdown-it版本的AnyBlock的补充增强
+    - 仿文件侧边栏 (魔改)，组件替换 (后弃用，换用自研侧边栏)
+    - NodeFlow (自研, 2024)，用于节点工作流的显示与扩展
+    - onInitialized-json (自研)，格式扩展。对NodeFlow的增强，直接识别工作流json文件
+    - onInitialized-pdf (自研)，格式扩展。直接识别pdf库
+    - RootSidebar (自研)，侧边栏，带状态，可指定任意层作为树根部
+  - Workflows extension
+    - LincDocs/Workflows (自研)，特点：构建库与文档库分离、完全零配置 开箱即用、单文件构建 & 可选的单文件配置
 
 ## Thank you very much for your support!
 
