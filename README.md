@@ -73,7 +73,11 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Thank you very much for your support!
 
-(Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~. It is best to fill in the reason note when sponsoring)
+Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~.
+
+It is best to fill in the reason note when sponsoring and github account name.
+
+[Support List](./Sponsors.md)
 
 <!-- <table>
   <tbody>
