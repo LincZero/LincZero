@@ -72,7 +72,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   - Workflows extension
     - LincDocs/Workflows (自研)，特点：构建库与文档库分离、完全零配置 开箱即用、单文件构建 & 可选的单文件配置
 
-## Thank you very much for your support!
+## Thank you very much for your support! | 感谢您的支持!
 
 Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~.
 
