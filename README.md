@@ -37,26 +37,27 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 （注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
 
-- AnyBlock (organization)
-  - any-block-obsidian
+- [AnyBlock](https://github.com/any-block) (organization)
+  - [any-block-obsidian](https://github.com/any-block/obsidian-any-block)
   - markdwon-it-any-block
   - VuepressDemo (about how to use markdwon-it-any-block in vuepress)
   - VitepressDemo (about how to use markdwon-it-any-block in vitepress)
-- LincDocs (organization)
-  - Workflows 
+- [LincDocs](https://github.com/LincDocs) (organization)
+  - Workflows
   - many... (include my main documentation project `MdNote_Public`)
 - FontEnd
-  - LincZero.github.io
-  - NodeFlow
-  - AnyBlock
-  - LcNavSite
+  - [LincZero.github.io](https://github.com/LincZero/LincZero.github.io)
+  - [NodeFlow](https://github.com/LincZero/obsidian-node-flow)
+  - [AnyBlock](https://github.com/any-block/obsidian-any-block)
+  - [LcNavSite](https://github.com/LincZero/LcNavSite)
+  - [ChatViewQQ](https://github.com/LincZero/obsidian-chat-view-qq)
 - Application
-  - pyqt-node-editor-master
-  - SuperManager
-  - BiliTools
-- LincZero.github.io (integration)
+  - [pyqt-node-editor-master](https://github.com/LincZero/pyqt-node-editor-master)
+  - [SuperManager](https://github.com/LincZero/SuperManager)
+  - [BiliTools](https://github.com/LincZero/BiliTools)
+- [LincZero.github.io](https://github.com/LincZero/LincZero.github.io) (integration)
   - Theme extension
-    - VuePress-Theme-Hope
+    - [VuePress-Theme-Hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
   - MarkdownIt extension
     - AnyBlock (自研, V3 2024)，用于部分md写法与渲染扩展
     - markdown-it-obsidian-callout (贡献)，用于obsidian callout语法的渲染，用于代替gfm-alert
@@ -75,9 +76,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~.
 
-It is best to fill in the reason note when sponsoring and github account name.
-
-[Support List](./Sponsors.md)
+It is best to fill in the reason note when sponsoring and github account name. [Support List](./Sponsors.md)
 
 <!-- <table>
   <tbody>
