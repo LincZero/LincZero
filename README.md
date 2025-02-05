@@ -69,6 +69,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
     - [onInitialized-json](https://github.com/LincZero/LincZero.github.io/tree/main/src/.vuepress/plugin/ExFormat) (自研)，格式扩展。对NodeFlow的增强，直接识别工作流json文件
     - [onInitialized-pdf](https://github.com/LincZero/LincZero.github.io/tree/main/src/.vuepress/plugin/ExFormat) (自研)，格式扩展。直接识别pdf库
     - [RootSidebar](https://github.com/LincZero/LincZero.github.io/tree/main/src/.vuepress/plugin/RootSidebar) (自研)，侧边栏，带状态，可指定任意层作为树根部
+    - [ReadEnhance](https://github.com/LincZero/LincZero.github.io/tree/main/src/.vuepress/plugin/ReadEnhance) (自研)，阅读增强。除了文本类布局，更多的是为非 `.md` 提供更好的展示效果 (如节点流、pdf等)
   - Workflows extension
     - [LincDocs/Workflows](https://github.com/LincDocs/Workflow) (自研)，特点：构建库与文档库分离、完全零配置 开箱即用、单文件构建 & 可选的单文件配置
 
