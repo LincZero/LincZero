@@ -97,7 +97,8 @@ It is best to fill in the reason note when sponsoring and github account name. [
 
 <div align="center">
 
-<img width="100%" alt="pay by zfb/wechat/buy me a coffe" src="https://github.com/LincZero/LincZero/blob/main/assets/pay_all2.png" />
+<img width="100%" alt="pay by zfb/wechat/buy me a coffe" src="./assets/pay_all2.png" />
+<!-- img width="100%" alt="pay by zfb/wechat/buy me a coffe" src="https://github.com/LincZero/LincZero/blob/main/assets/pay_all2.png" /-->
 <!-- https://ghproxy.com/https://raw.githubusercontent.com/LincZero/LincZero/main/assets/zfb_wechat_pay.png -->
 
 <table width="100%">
