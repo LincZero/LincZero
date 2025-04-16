@@ -33,9 +33,10 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   注意：个人大部分工作迁移到组织中便于管理，如 [any-block](https://github.com/any-block)。而github-readme-stats卡片[并不支持从组织中进行统计](https://github.com/anuraghazra/github-readme-stats/issues/1)，所以我使用了[另一分支与仓库](https://github.com/anuraghazra/github-readme-stats/pull/2459)
 </details>
 
-## Open source project (Chief creator) | 主创开源项目
+## Open source project (Chief creator)
 
-（注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
+主创开源项目（注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>
+（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
 
 - [AnyBlock](https://github.com/any-block) (organization)
   - [any-block-obsidian](https://github.com/any-block/obsidian-any-block)
@@ -74,11 +75,10 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   - Workflows extension
     - [LincDocs/Workflows](https://github.com/LincDocs/Workflow) (自研)，特点：构建库与文档库分离、完全零配置 开箱即用、单文件构建 & 可选的单文件配置
 
-## Thank you very much for your support! | 感谢您的支持!
+## Thank you very much for your support
 
-Support using Alipay, Wechat, Paypal, ~~BuyMeACoffe~~.
-
-It is best to fill in the reason note when sponsoring and github account name. [Support List](./Sponsors.md)
+感谢您的支持! 支持支付宝, 微信, Paypal, ~~BuyMeACoffee~~. 最好备注你所支持的github项目以及github名<br>
+Support using Alipay, Wechat, Paypal, ~~BuyMeACoffee~~. It is best to fill in the reason note when sponsoring and github account name. [Support List](./Sponsors.md)
 
 <!-- <table>
   <tbody>
