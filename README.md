@@ -42,7 +42,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Thank you very much for your support
 
-感谢您的支持! 支持支付宝, 微信, Paypal, ~~BuyMeACoffee~~. 最好备注你所支持的github项目以及github名<br>
+感谢您的支持! 支持赞赏码(推荐), 支付宝, 微信, Paypal, ~~BuyMeACoffee~~. 最好备注你所支持的github项目以及github名<br>
 Support using Alipay, Wechat, Paypal, ~~BuyMeACoffee~~. It is best to fill in the reason note when sponsoring and github account name. [Support List](./Sponsors.md)
 
 <!-- <table>
