@@ -35,10 +35,10 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 ## Open source project (Chief creator)
 
-主创开源项目（注意，其中很多项目被我迁移到了organization中。如果你想了解更多，不妨到这些组织仓库里看看）<br>
-（Note that many of these projects were migrated to my organization. If you want to learn more, check out these organizational warehouses）
+主创开源项目（注意，其中很多项目被我迁移到了organization中，以及还有部分非开源项目。如果你想了解更多，不妨到这些组织仓库与文档里看看）<br>
+（Note that many of these projects were migrated to my organization, and I have some non-open-source projects. If you want to learn more, check out these organizational and docs）
 
-[My open Source Project Navigation | 我的开源项目导航](https://linczero.github.io/MdNote_Public/ProductDoc/)
+[My open source / non-open source project navigation | 我的开源/非开源项目导航](https://linczero.github.io/MdNote_Public/ProductDoc/)
 
 ## Thank you very much for your support
 
