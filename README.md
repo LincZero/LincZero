@@ -8,18 +8,20 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 - 📫 I'm a full stack developer. For more details about the development, see the Profile section of my personal website.
 - 🌱 Currently working in Guangdong China
 
-<td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true" /></td>
+<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<!--img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true&rank_icon=percentile&include_all_commits=true" /-->
 
 <table>
   <tbody>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
         <br>
         <span>(byte count, exclude some repo)</span>
       </td>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&size_weight=0.2&count_weight=0.8" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
         <br>
         <span>(repo count)</span>
       </td>
