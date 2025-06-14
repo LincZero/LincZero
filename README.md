@@ -13,18 +13,24 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 <table>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=c%2B%2B&langs_count=20&layout=compact" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
         <br>
-        <span>(Without C++ version)</span>
+        <span>(byte count, exclude some repo)</span>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&size_weight=0.2&count_weight=0.8" />
+        <br>
+        <span>(repo count)</span>
       </td>
     </tr>
   </tbody>
 </table>
 
+(Statistics include private repositories, excluding all my non-open-source projects)
+
 <details>
-  <summary>Organizational statistical problem</summary>
+  <summary>(about organizational statistical problem)</summary>
 
   <!-- https://github-readme-stats.vercel.app/api? &theme=onedark&locale=en -->
   
