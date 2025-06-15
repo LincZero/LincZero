@@ -46,6 +46,12 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 [My open source / non-open source project navigation | 我的开源/非开源项目导航](https://linczero.github.io/MdNote_Public/ProductDoc/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=any-block&repo=any-block&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&username=LincZero&repo=obsidian-node-flow&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&username=LincZero&repo=obsidian-chat-view-qq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=mProjectsCode&repo=obsidian-shiki-plugin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=vuepress&repo=core&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=vuepress&repo=ecosystem&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=mdit-plugins&repo=mdit-plugins&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=nolebase&repo=integrations&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&username=LincZero&repo=LincZero.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&show_owner=true&username=PKM-er&repo=Pkmer-Math&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Thank you very much for your support
 
 感谢您的支持! 支持赞赏码(推荐), 支付宝, 微信, Paypal, ~~BuyMeACoffee~~. 最好备注你所支持的github项目以及github名<br>
