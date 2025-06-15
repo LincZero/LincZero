@@ -18,21 +18,19 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
       <td>
         <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
         <br>
-        <span>(byte count, exclude some repo)</span>
+        <span>(sort by byte count, exclude some repo)</span>
       </td>
       <td>
         <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
         <br>
-        <span>(repo count)</span>
+        <span>(sort by repo count)</span>
       </td>
     </tr>
   </tbody>
 </table>
 
-(Statistics include private repositories, excluding all my non-open-source projects)
-
 <details>
-  <summary>(about organizational statistical problem)</summary>
+  <summary>Statistics include private repositories, excluding a portion of my non-open-source projects</summary>
 
   <!-- https://github-readme-stats.vercel.app/api? &theme=onedark&locale=en -->
   
