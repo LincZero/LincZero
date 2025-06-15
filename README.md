@@ -39,12 +39,14 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   注意：个人大部分工作迁移到组织中便于管理，如 [any-block](https://github.com/any-block)。而github-readme-stats卡片[并不支持从组织中进行统计](https://github.com/anuraghazra/github-readme-stats/issues/1)，所以我使用了[另一分支与仓库](https://github.com/anuraghazra/github-readme-stats/pull/2459)
 </details>
 
-## Open source project (Chief creator)
+## Open source project
 
-主创开源项目（注意，其中很多项目被我迁移到了organization中，以及还有部分非开源项目。如果你想了解更多，不妨到这些组织仓库与文档里看看）<br>
+开源项目（注意，其中很多项目被我迁移到了organization中，以及还有部分非开源项目。如果你想了解更多，不妨到这些组织仓库与文档里看看）<br>
 （Note that many of these projects were migrated to my organization, and I have some non-open-source projects. If you want to learn more, check out these organizational and docs）
 
-[My open source / non-open source project navigation | 我的开源/非开源项目导航](https://linczero.github.io/MdNote_Public/ProductDoc/)
+Chief creator (主创部分): [My open source / non-open source project navigation | 我的开源/非开源项目导航](https://linczero.github.io/MdNote_Public/ProductDoc/)
+
+Common Repo Card (常用仓库，包含贡献仓库):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&hide_border=true&show_owner=true&username=any-block&repo=any-block&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&hide_border=true&username=LincZero&repo=obsidian-node-flow&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&hide_border=true&username=LincZero&repo=obsidian-chat-view-qq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&hide_border=true&show_owner=true&username=mProjectsCode&repo=obsidian-shiki-plugin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
