@@ -16,12 +16,12 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
   <tbody>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&hide=markdown&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
         <br>
-        <span>(sort by byte count, exclude some repo)</span>
+        <span>(sort by byte count, exclude some repo and langs)</span>
       </td>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
         <br>
         <span>(sort by repo count)</span>
       </td>
