@@ -21,7 +21,7 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
         <span>(sort by byte count, exclude some repo and langs)</span>
       </td>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.3&count_weight=0.7" />
         <br>
         <span>(sort by repo count)</span>
       </td>
