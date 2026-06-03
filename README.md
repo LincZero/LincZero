@@ -12,22 +12,26 @@ Welcome to my personal website: [LincZero.github.io](https://linczero.github.io/
 
 <!--img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&hide_border=true&rank_icon=percentile&include_all_commits=true" /-->
 
-<table>
+<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.3&count_weight=0.7" />
+
+<span>(sort by repo count mix byte)</span>
+
+<!--table>
   <tbody>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&hide=markdown&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
-        <br>
-        <span>(sort by byte count, exclude some repo and langs)</span>
-      </td>
-      <td>
         <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.3&count_weight=0.7" />
         <br>
-        <span>(sort by repo count)</span>
+        <span>(sort by repo count mix byte)</span>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=LincZero&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=21&layout=compact&hide_border=true&theme=tokyonight&hide=markdown&exclude_repo=SuperManager&size_weight=0.8&count_weight=0.2" />
+        <br>
+        <span>(sort by byte count, <br>exclude some repo and langs)</span>
       </td>
     </tr>
   </tbody>
-</table>
+</table-->
 
 <details>
   <summary>Statistics include private repositories, excluding a portion of my non-open-source projects</summary>
